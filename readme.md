@@ -41,8 +41,8 @@ This architecture is both **scalable** (it never loads full documents into conte
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone <https://github.com/ritviksharma54/web-crawler-and-scraper-rag.git>
+cd <https://github.com/ritviksharma54/web-crawler-and-scraper-rag.git>
 ```
 
 ### 2. Create and Activate a Virtual Environment
