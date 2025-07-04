@@ -3,3 +3,5 @@
 !streamlit_app.py
 !web_crawler.py
 !.gitignore
+!requirements.txt
+!README.md
